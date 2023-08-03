@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Django Framework**
 
+- 🗣 Language speaking: 🇷🇺**Russian - Native**, 🇺🇸**English - С1 (Advanced)**
+
 - 📫 How to reach me **surmaw@mail.ru**
 
 <h3 align="left">Connect with me:</h3>
