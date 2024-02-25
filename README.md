@@ -1,4 +1,5 @@
 ![MasterHead](https://media1.tenor.com/m/mJ_Og97j5WwAAAAC/chipi-chapa.gif)
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/mJ_Og97j5WwAAAAC/chipi-chapa.gif">
 <h1 align="center">(っ◔◡◔)っ Hi there, I'm Surzhenko Matvey</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=279BF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=From+python+to+1C+xD" alt="Typing SVG" /></a></h3>
