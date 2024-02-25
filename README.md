@@ -1,4 +1,4 @@
-![MasterHead](https://media1.tenor.com/m/mJ_Og97j5WwAAAAC/chipi-chapa.gif)
+
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/mJ_Og97j5WwAAAAC/chipi-chapa.gif">
 <h1 align="center">(っ◔◡◔)っ Hi there, I'm Surzhenko Matvey</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
