@@ -2,7 +2,7 @@
 <img align="center" alt="Coding" width="800" src="https://media1.tenor.com/m/mJ_Og97j5WwAAAAC/chipi-chapa.gif">
 <h1 align="center">(っ◔◡◔)っ Hi there, I'm Surzhenko Matvey</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=279BF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=From+python+to+1C+xD" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=279BF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=hellow+world" alt="Typing SVG" /></a></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 - 🗣 Language speaking: 🇷🇺**Russian - Native**, 🇺🇸**English - С1 (Advanced)**
